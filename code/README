@@ -1,0 +1,5 @@
+GenerateData -- prepare a data set with reliable mean timecourse
+GenerateData('randphase', 1) -- prepare a data set with no mean timecourse
+
+emfa -- example implementation of FA
+run_gpfa -- run the (included) GPFA code on the output from GenerateData
